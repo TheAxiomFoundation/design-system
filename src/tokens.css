@@ -1,0 +1,32 @@
+:root {
+  /* Surface palette */
+  --ra-void: #0a1628;
+  --ra-bg: #0f1f36;
+  --ra-elevated: #152644;
+
+  /* Primary accent */
+  --ra-precision: #3b82f6;
+  --ra-precision-dark: #2563eb;
+  --ra-precision-glow: rgba(59, 130, 246, 0.15);
+
+  /* Secondary accent */
+  --ra-warmth: #f59e0b;
+  --ra-warmth-light: #fbbf24;
+
+  /* Text */
+  --ra-text: #f8fafc;
+  --ra-text-secondary: #94a3b8;
+  --ra-text-muted: #64748b;
+
+  /* Success/error */
+  --ra-success: #10b981;
+  --ra-error: #ef4444;
+
+  /* Borders */
+  --ra-border: rgba(59, 130, 246, 0.2);
+  --ra-border-subtle: rgba(148, 163, 184, 0.1);
+
+  /* Easing */
+  --ra-ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ra-ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
