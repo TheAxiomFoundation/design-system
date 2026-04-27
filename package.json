@@ -1,7 +1,7 @@
 {
-  "name": "@ruleatlas/design-system",
+  "name": "@axiom-foundation/design-system",
   "version": "0.1.0",
-  "description": "Rule Atlas design system - shared design tokens and utilities",
+  "description": "Axiom Foundation design system - shared design tokens and utilities",
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -39,12 +39,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RulesFoundation/design-system.git"
+    "url": "https://github.com/TheAxiomFoundation/design-system.git"
   },
   "license": "MIT",
   "keywords": [
-    "ruleatlas",
-    "rules-foundation",
+    "axiom-foundation",
     "design-system",
     "design-tokens"
   ],
