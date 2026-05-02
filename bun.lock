@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "@ruleatlas/design-system",
+      "name": "@axiom-foundation/design-system",
       "devDependencies": {
         "typescript": "^5.8.3",
       },
